@@ -36,7 +36,6 @@ button:hover {
 }
 
 button {
-    margin: 40px;
     background-color: rgb(255, 255, 255);
     font-size: 20px;
     font-family: 'Bebas Neue';
@@ -44,7 +43,7 @@ button {
 }
 
 #ahaccount {
-    margin: -21%;
+    margin: 11%;
 }
 
 #signin {
